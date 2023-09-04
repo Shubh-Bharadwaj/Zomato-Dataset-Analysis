@@ -3,7 +3,7 @@
 
 -Analyzed the Zomato dataset available on Kaggle.
 
--Utilized the Python libraries: Pandas, NumPy, Matplotlib, and Seaborn.
+-Utilized Python libraries: Pandas, NumPy, Matplotlib, and Seaborn.
 
 
 🛠️**Data Processing:**
